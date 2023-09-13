@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">ResoluteAIProject</string>
+    <string name="register">Register</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="re_enter_password">Re-Enter Password</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="welcome_to_infobyte_technologies">Welcome to\nInfobyte Technologies</string>
+    <string name="passwordh">Password</string>
+    <string name="login">Login</string>
+    <string name="not_yet">Not yet registered? SignUp Now</string>
+    <string name="project">Project Submitted by:\nHarshvardhan Gupta</string>
+    <string name="linkedin"><u>LinkedIn ID - Harshvardhan Gupta</u></string>
+    <string name="github"><u>GitHub ID - Harsh5488</u></string>
+    <string name="thanks">Thanks for visiting!\n</string>
+    <string name="orsign">or Sign In using</string>
+    <string name="google_sign_in">Google Sign In</string>
+    <string name="facebook_sign_in">Facebook Sign In</string>
+    <string name="github_sign_in">GitHub Sign In</string>
+    <string name="resoluteai">Resolute AI</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="open_qr_scanner">Open QR Scanner</string>
+    <string name="result">Result</string>
+    <string name="sign_out">Sign Out</string>
+</resources>

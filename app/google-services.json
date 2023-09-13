@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "470087050533",
+    "project_id": "resoluteaiproject",
+    "storage_bucket": "resoluteaiproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470087050533:android:cd803bbbc4f25d4f3366cc",
+        "android_client_info": {
+          "package_name": "com.harsh.resoluteaiproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470087050533-9i2lpanhioesfki6l0otn470s59lmulf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.harsh.resoluteaiproject",
+            "certificate_hash": "d9aa3de56b3132d760ccd0b84faea8fac885d6bc"
+          }
+        },
+        {
+          "client_id": "470087050533-dco32qcccpnv7qpkgdsfalrt36184hg9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWyrLjp_TkhPepXoknZjBDQL_rZwLFzLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470087050533-dco32qcccpnv7qpkgdsfalrt36184hg9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
